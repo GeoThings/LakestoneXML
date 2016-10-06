@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0" DefaultTargets="Build">
+    <PropertyGroup Label="Globals">
+        <ProjectGuid>246C30E5-F660-485C-BA63-28CEC8A6DF59</ProjectGuid>
+    </PropertyGroup>
+    <PropertyGroup>
+        <RootNamespace>LakestoneXML.Shared</RootNamespace>
+    </PropertyGroup>
+    <Import Project="LakestoneXML.Shared.projitems" Label="Shared"/>
+    <Import Project="$(MSBuildExtensionsPath)\RemObjects Software\Elements\RemObjects.Elements.SharedProject.targets"/>
+    <PropertyGroup>
+        <PreBuildEvent/>
+    </PropertyGroup>
+</Project>

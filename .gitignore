@@ -1,0 +1,10 @@
+Packages/
+.build/
+Silver/LakestoneXML.Android/bin/
+Silver/LakestoneXML.Android/obj/
+Silver/LakestoneXML.Tests/bin/
+Silver/LakestoneXML.Tests/obj/
+Silver/LakestoneXML.sln.fire.cache
+Silver/LakestoneXML.sln.fire.user
+Silver/LakestoneXML.Android/LakestoneXML.Android.elements.user
+Silver/LakestoneXML.Tests/LakestoneXML.Tests.elements.user
